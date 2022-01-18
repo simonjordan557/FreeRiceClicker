@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeRiceClicker", "FreeRiceClicker\FreeRiceClicker.csproj", "{81F12ABF-C8B1-43D6-A76E-917A9D90945A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F12ABF-C8B1-43D6-A76E-917A9D90945A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{81F12ABF-C8B1-43D6-A76E-917A9D90945A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{81F12ABF-C8B1-43D6-A76E-917A9D90945A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F12ABF-C8B1-43D6-A76E-917A9D90945A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B470DE1-D1F7-45BF-AB5A-C56330A1E929}
+	EndGlobalSection
+EndGlobal

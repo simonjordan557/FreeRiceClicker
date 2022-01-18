@@ -1,0 +1,17 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\FreeRiceClicker.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\FreeRiceClicker.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\FreeRiceClicker.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\FreeRiceClicker.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\ref\FreeRiceClicker.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\FreeRiceClicker.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\bin\Release\net6.0\GregsStack.InputSimulatorStandard.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.GeneratedMSBuildEditorConfig.editorconfig
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\ref\FreeRiceClicker.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.genruntimeconfig.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\FreeRiceClicker\FreeRiceClicker\obj\Release\net6.0\FreeRiceClicker.csproj.AssemblyReference.cache

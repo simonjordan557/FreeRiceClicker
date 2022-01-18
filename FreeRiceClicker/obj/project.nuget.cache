@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W11JtMtctGyS9AXhBf7GWN6z2GZAUwd8wCVt4R1gRnpPmGeuCZJH6De+i/dL8q22xp/5dcYcg6qje2k5xVa8mQ==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\My Programs\\FreeRiceClicker\\FreeRiceClicker\\FreeRiceClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\gregsstack.inputsimulatorstandard\\1.3.3\\gregsstack.inputsimulatorstandard.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
